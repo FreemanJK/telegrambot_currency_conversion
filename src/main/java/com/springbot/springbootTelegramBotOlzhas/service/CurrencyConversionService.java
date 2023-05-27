@@ -1,15 +1,11 @@
 package com.springbot.springbootTelegramBotOlzhas.service;
 
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.http.HttpEntity;
-import org.springframework.http.HttpHeaders;
-import org.springframework.http.HttpMethod;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestClientException;
 import org.springframework.web.client.RestTemplate;
 
-import org.springframework.stereotype.Service;
 @Slf4j
 @Service
 public class CurrencyConversionService {

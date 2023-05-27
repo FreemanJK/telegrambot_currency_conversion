@@ -1,10 +1,20 @@
-HELP.md
+# Ignore build output
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-### STS ###
+# Ignore generated documentation
+HELP.md
+
+# Ignore Maven-specific files
+.mvn/
+mvnw
+mvnw.cmd
+
+### IDE Specific Files ###
+
+# Spring Tool Suite (STS)
 .apt_generated
 .classpath
 .factorypath
@@ -13,13 +23,13 @@ target/
 .springBeans
 .sts4-cache
 
-### IntelliJ IDEA ###
+# IntelliJ IDEA
 .idea
 *.iws
 *.iml
 *.ipr
 
-### NetBeans ###
+# NetBeans
 /nbproject/private/
 /nbbuild/
 /dist/
@@ -29,5 +39,22 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
-### VS Code ###
+# Visual Studio Code
 .vscode/
+
+### Custom Exclusions ###
+
+# Application properties file
+application.properties
+
+# Logs
+*.log
+
+# Environment-specific files
+.env
+
+# Personal configuration files
+personal.conf
+
+# Ignore sensitive files
+speechtotextgoogle.json

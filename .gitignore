@@ -45,7 +45,7 @@ build/
 ### Custom Exclusions ###
 
 # Application properties file
-application.properties
+src/main/resources/application.properties
 
 # Logs
 *.log
@@ -58,3 +58,5 @@ personal.conf
 
 # Ignore sensitive files
 speechtotextgoogle.json
+
+

@@ -8,11 +8,8 @@ services:
       - "9090:9090"
     volumes:
       - ./voice_messages:/app/voice_messages
-    environment:
-      - SPRING_DATASOURCE_URL=jdbc:postgresql://postgres:5432/currency_db
-      - SPRING_DATASOURCE_USERNAME=postgres
-      - SPRING_DATASOURCE_PASSWORD=admin
-      - GOOGLE_APPLICATION_CREDENTIALS=/app/key.json # Add this line to specify the path to the JSON key file
+    env_file:
+      - ./env.list
     depends_on:
       - postgres
   postgres:

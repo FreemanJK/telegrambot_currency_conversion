@@ -45,18 +45,17 @@ build/
 ### Custom Exclusions ###
 
 # Application properties file
-src/main/resources/application.properties
+#src/main/resources/application.properties
 
 # Logs
 *.log
 
 # Environment-specific files
 .env
+env.list
 
 # Personal configuration files
 personal.conf
 
 # Ignore sensitive files
 speechtotextgoogle.json
-
-

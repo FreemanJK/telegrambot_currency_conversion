@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "maximal-zoo-387518",
+  "private_key_id": "d89f25433a14762ee68b509b499566e35736d4b8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQClqLGox7g5WQEQ\n6YL2WIjwc9yGSNyWSzRdsrohEZ52rnhzxflJstC/hXjQJxFxeeZnERnj/bc684iM\n5Q424xxhBzfcor6pwCiyQLHcxolt0Nbml3FPkFQFiZa8FtpKu/osdsW75siqTOuP\nuFatdjygScARcpPGzihRi8Ch0MNTFSPgS2EMTH8TGpsefLear3ciRzVbPGXl2ihr\nHV7U53O9s9Vv638U4y8bqTcAtHDyfvTe+5He7Osg0q2Pfbo7z1bJKzTweljBuTwg\nUwBQqNSxVTtKGsNCam2sZ6rSNzUEqVgck7i3yPuELN2LqdLWFm+s4T6FVRapF2Sp\nkjTnXNXNAgMBAAECggEAFCpdnAvZ1WNMAazHRCkhXFHiR5dxgLsdYAWMak+cgFp7\nL66rCqlhh1reSspisXNTFHtMsUf2iM7R8cLFUPGjB/2qs2k9N+k8GvzMmfEyFAPe\n0Rmg0bxiOf1Wc8V9Y6kPyl9X8ShmB3MPHsLkDEAPH7zyjD0sF4CLgGe4doo06LVA\n6k+YGRXdiziCfDpbFHftsYmmQsTaOEXXxql5OuAQzRk5hCm11F/ksFrFYid54c0H\ncqayoPN1megS5G0WbPxbSr+U+xygtMbeUHDT39ln9nyMqdGZYRdAfYH0FdBoscyU\n9kIWUX08u02aPR4H9Rs/RBEm4QFHtYzaNcxdM0yk+QKBgQDk9IuNVHvdoRP68yTq\nnq4qVamIxv/j19gm6Uqu0w5++jXQOSqPkyKrGPkN0sP6cArFgB/WKk/UMZp4agyn\n9j0xbOETI02uarmEaZV3mTYwG7ujV+EDLI6hQsCHyZkHgFhfy6hMqVjK4Lgviz+H\n7Qhaftdqe4qjsWDd3MeE4J23CQKBgQC5OhxoTTEL8mWu9n0y6du7/VcoDZYT1xXH\ngXIqohNecb575kpl6+VmdNSz743mTsLLtB1jCcSEf90/woDO0VvPV4dDQZ1mmC+R\nW3U8IULaHNkFajT2ck2yWRCF4k/AW82CDFv/Ksd/bKDr4PFrBO8ayxwg/9Bg9HhS\nO6I3D4k1pQKBgDh58iqMmnlTEIColYSiW8fplYY9wEVNqu3+QgPZ4AuGYNvaHhuI\nadbWtCiqwtj15lJNhoznpwVqrvXhAvozjWixuNtlq/XIMbbt7Iax7mHzlVd3h/Om\nfBBfTOqx2eO1zxbiP8OZSmPRBt4DdUpsN9FK1IxZqRsz1/ciTL0EQyMxAoGBAIrd\nSyDTBjtLrfn+55v9AXStmOL5VJNpQ/W/UUUvH1BF/CXNX+eLc/9dBX4k0YBhed7Y\nGNQAJamkZs3/Vyw2fxsyJsFAdu3MmJTkOT8sPH9i8z0BA9XjmeZkqWOGaH3xFWAz\nPeFORCR+3yIYEUZHe67dqSgAQUv+3BnihVm8NwTVAoGAL0YYjj5iwk/eys86QAaL\nEbRpxn9cMHYBRlnr+Gpr0AMxkN+Nwx+CgpYJFrkmfU/j49UddJ3orpeH/mAibg2l\npzQLlHr9swRX2KrKmHk9JJq9LRL0srt97KgxJnvkXH+pYn/sOCrMaJ3L2qKOvQVS\n97VBr9BwsIWwHINyRn6mpp4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "olzhas@maximal-zoo-387518.iam.gserviceaccount.com",
+  "client_id": "109872128767369816358",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/olzhas%40maximal-zoo-387518.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
